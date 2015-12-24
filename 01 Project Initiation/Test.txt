@@ -1,7 +1,7 @@
 Test
 
-<<<<<<< HEAD
+
 tested from local
-=======
+
 tested from server
->>>>>>> origin/master
+
